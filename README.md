@@ -4,5 +4,5 @@
 <h1 align="center">forkNcommit</h1>
 
 <h4 align="center">
-	Head start your open-source contributions
+	😸Head start your open-source contributions😸
 </h4>
