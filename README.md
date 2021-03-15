@@ -24,4 +24,11 @@ go to [forkNcommit](https://github.com/forkNcommit2021) organization page and se
 
 there are 3 domains [Android](https://github.com/forkNcommit2021/Android), [Web](https://github.com/forkNcommit2021/WebDev), [Machine Learning](https://github.com/forkNcommit2021/MachineLearning)
 
+after selecting your prefered domain start working on the problem statement or start building the model which is given to you in the form of `ReadMe.md` file.
+
+for a week you'll work on the project and in between there will be two review meetings(`alpha` and `beta`) for reviewing your work.
+
+A leaderboard will be maintained throughout the event which'll be live, it'll freeze after the second meet `beta review`
+
+
 
