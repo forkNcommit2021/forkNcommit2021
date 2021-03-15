@@ -7,6 +7,10 @@
 	😸Head start your open-source contributions😸
 </h4>
 
-<h4 align="center">
+<h2 align="center">
+FLOW Of THE EVENT
+</h2>
+`Select` ... `Fork` ... `Work` ... `Commit` ... `Review`... `Results` 
 
-</h4>
+
+
