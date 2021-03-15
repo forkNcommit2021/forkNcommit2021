@@ -22,6 +22,6 @@ participants will select the domain in which they are comfortable to work.
 
 go to [forkNcommit](https://github.com/forkNcommit2021) organization page and select the repository which suits your domain.
 
-there are 3 domains [Android](https://github.com/forkNcommit2021/Android) [Web](https://github.com/forkNcommit2021/WebDev) [Machine Learning](https://github.com/forkNcommit2021/MachineLearning)
+there are 3 domains [Android](https://github.com/forkNcommit2021/Android), [Web](https://github.com/forkNcommit2021/WebDev), [Machine Learning](https://github.com/forkNcommit2021/MachineLearning)
 
 
