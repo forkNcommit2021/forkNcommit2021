@@ -11,7 +11,9 @@
 FLOW Of THE EVENT
 </h2>
 
-`Select` -> `Fork` -> `Work` -> `Commit` -> `Review` -> `Results` 
+`SELECT` -> `FORK` -> `WORK` -> `COMMIT` -> `REVIEW` -> `RESULTS` 
 
-
+<h2 align="center">
+**About the event**	
+</h2>
 
