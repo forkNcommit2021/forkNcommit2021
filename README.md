@@ -14,6 +14,6 @@ FLOW Of THE EVENT
 `SELECT` -> `FORK` -> `WORK` -> `COMMIT` -> `REVIEW` -> `RESULTS` 
 
 <h2 align="center">
-**About the event**	
+About the event
 </h2>
 
