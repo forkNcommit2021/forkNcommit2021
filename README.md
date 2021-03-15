@@ -10,7 +10,7 @@
 <h2 align="center">
 FLOW Of THE EVENT
 </h2>
-`Select` ... `Fork` ... `Work` ... `Commit` ... `Review`... `Results` 
+`Select` -> `Fork` -> `Work` -> `Commit` -> `Review` -> `Results` 
 
 
 
