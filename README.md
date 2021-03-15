@@ -33,9 +33,9 @@ About the event
 --> at the end of the event you'll stop working on the project and the your project will be reviewed by judges, results will be announced in result ceremony 
 
 
-<h2 align="center">
+<h1 align="center">
 Prizes
-</h2>
+</h1>
 
 1st Price: Rs. 2500
 ---
