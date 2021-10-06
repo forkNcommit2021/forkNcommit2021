@@ -1,3 +1,4 @@
+---
 <div align="center">
   <img src="https://github.com/forkNcommit2021/forkNcommit2021/blob/main/WhatsApp%20Image%202021-03-14%20at%2012.55.05.jpeg"  width="250" height="250"/>
 
@@ -25,7 +26,17 @@
 
 - *Go to [forkNcommit](https://github.com/forkNcommit2021) organization page and select the repository which suits your domain.*
 
-- *There are 5️ domains [App Developement](https://github.com/forkNcommit2021/Android), [Web Developement](https://github.com/forkNcommit2021/WebDev), [Machine Learning](https://github.com/forkNcommit2021/MachineLearning), [Data Science](), [Cyber Security and Blockchain]().
+- There are 5️ domains : 
+	
+	*[App Development](https://github.com/forkNcommit2021/Mobile-App-Development).* 
+	<br>
+	*[Web Development](https://github.com/forkNcommit2021/Website-Development).*
+	<br>
+	*[Machine Learning](https://github.com/forkNcommit2021/Machine-Learning).*
+	<br>
+	*[Data Science](https://github.com/forkNcommit2021/Data-Science).*
+	<br>
+	*[Cyber Security and Blockchain](https://github.com/forkNcommit2021/Cyber-Security-and-Blockchain).*
 
 - After selecting your prefered domain start working on the problem statement or start building the model which is given to you in the form of `ReadMe.md` file.
 
@@ -45,5 +56,5 @@
 	- **Note:** Goodies like tshirts👕, stickers 📟, hoodies 🧥 and a lot more will be provided to all the participants who will make some progress in the mid-week review.
        
 	
-
+---
 </div>
