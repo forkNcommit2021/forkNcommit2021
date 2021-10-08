@@ -9,6 +9,7 @@
 
 ## 😸 Battleground For Developers 😸
 
+## 🏃 Head Start For Your Open Source Career 🏃 
 
 
 ### ➡️ FLOW Of THE EVENT ➡️
@@ -41,7 +42,7 @@
 
 - For a week you'll work on the project and in between there will be one review _(Mid Week Review)_ for reviewing your work.
 
-- A leaderboard will be maintained throughout the event which'll be live, it'll freeze after the second meet `beta review`
+
 
 - *At the end of the event you'll stop working on the project and the your project will be reviewed by judges, results will be announced in result ceremony.* 
 
