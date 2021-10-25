@@ -26,7 +26,7 @@
 
 - *Go to [forkNcommit](https://github.com/forkNcommit2021) organization page and select the repository which suits your domain.*
 
-- There are 5️ domains : 
+- There are 5️ + 1 domains : 
 	
 	*[App Development](https://github.com/forkNcommit2021/Mobile-App-Development).* 
 	<br>
@@ -37,6 +37,8 @@
 	*[Data Science](https://github.com/forkNcommit2021/Data-Science).*
 	<br>
 	*[Cyber Security and Blockchain](https://github.com/forkNcommit2021/Cyber-Security-and-Blockchain).*
+	*[Generalized](https://github.com/forkNcommit2021/General-Domain).* 
+	<br>
 
 - After selecting your prefered domain start working on the problem statement or start building the model which is given to you in the form of `ReadMe.md` file.
 
